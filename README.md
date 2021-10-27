@@ -2,7 +2,7 @@
 # Azure IoT Edge Tools for Visual Studio Documentation
 
 Azure IoT Edge Tools makes it easy to code, build, deploy, and debug your IoT Edge solutions in Visual Studio 2017 and in Visual Studio 2019
-- Download and install [Azure IoT Edge Tools for VS 2017 (Preview)](https://marketplace.visualstudio.com/items?itemName=vsc-iot.vsiotedgetools) or [Azure IoT Edge Tools for VS 2019 (Preview)](https://marketplace.visualstudio.com/items?itemName=vsc-iot.vsiotedgetools).
+- Download and install [Azure IoT Edge Tools for VS 2017 (Preview)](https://marketplace.visualstudio.com/items?itemName=vsc-iot.vsiotedgetools) or [Azure IoT Edge Tools for VS 2019 (Preview)](https://marketplace.visualstudio.com/items?itemName=vsc-iot.vs16iotedgetools).
 - [Use Visual Studio 2017/2019 to develop and debug C# modules for Azure IoT Edge (Preview)](https://docs.microsoft.com/azure/iot-edge/how-to-visual-studio-develop-csharp-module).
 - [Easily develop and debug Azure IoT Edge C modules with Azure IoT Edge Tools](https://devblogs.microsoft.com/iotdev/easily-develop-and-debug-azure-iot-edge-c-modules-with-azure-iot-edge-tools-preview-0-3-1/).
 - [Troubleshoot](https://github.com/Microsoft/vs-azure-iot-edge-docs/wiki/Troubleshoot).
