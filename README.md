@@ -38,3 +38,12 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+## Support
+The team monitors the issue section on regular basis and will try to assist with troubleshooting or questions related IoT Edge tools on a best effort basis.
+	
+A few tips before opening an issue. Try to generalize the problem as much as possible. Examples include
+- Removing 3rd party components
+- Reproduce the issue with provided deployment manifest used
+- Specify whether issue is reproducible on physical device or simulated device or both
+Also, Consider consulting on the [docker docs channel](https://github.com/docker/docker.github.io) for general docker questions.
